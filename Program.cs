@@ -23,7 +23,8 @@ namespace ConsoleApplication
             var currentDate = DateTime.Now;
             var futureDate = new DateTime(currentDate.Year, 12, 25);
             
-            // ------------------------------------           
+            // ------------------------------------      
+            // ----
 
             Console.WriteLine("The current date is " + currentDate.ToString("d"));
             Console.WriteLine("Press any key to exit");
